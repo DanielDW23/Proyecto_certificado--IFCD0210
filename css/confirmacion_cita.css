@@ -1,0 +1,29 @@
+body {
+    font-family: 'Overpass', sans-serif;
+    font-weight: normal;
+    font-size: 100%;
+    color: #1b262c;
+    margin: 0;
+    background-color: #6bb9ee;
+}
+
+#contenedor {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction:column;
+    margin: 0;
+    padding: 0;
+    min-width: 100vw;
+    min-height: 100vh;
+    width: 100%;
+    height: 100%;
+}
+
+a{
+	text-decoration:none;
+}
+
+#cita_confirmada{
+    text-align: center;
+}

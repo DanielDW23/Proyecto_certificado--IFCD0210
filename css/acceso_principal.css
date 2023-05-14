@@ -1,0 +1,141 @@
+body {
+    font-family: 'Overpass', sans-serif;
+    font-weight: normal;
+    font-size: 100%;
+    color: #1b262c;
+    margin: 0;
+    background-color: #6bb9ee;
+}
+
+#contenedor {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction:column;
+    margin: 0;
+    padding: 0;
+    min-width: 100vw;
+    min-height: 100vh;
+    width: 100%;
+    height: 100%;
+}
+
+#central {
+    max-width: 835px;
+    width: 100%;
+}
+
+#cabecera h4{
+    font-size: 120%;
+	
+}
+
+a{
+    text-decoration: none;
+}
+
+
+.titulo {
+    font-size: 150%;
+    color:white;
+    text-align: center;
+    margin-bottom: 20px;
+	background-color: rgb(14, 108, 214);
+	padding:20px;
+}
+
+#citas_pendientes,#pedir_cita{
+    margin:auto;
+    padding: 15px 20px;
+    background-color:whitesmoke;
+
+}
+
+
+#tabla{
+    width: 100%;
+    text-align: center;
+
+}
+
+table{
+	margin:auto;
+	
+	
+}
+
+.cabecera_tabla{
+    font-size: 135%;
+    font-weight: bold;
+	background-color: lightgrey; 
+}
+
+#tabla td{
+    padding: 10px;
+}
+
+input, select,button{
+	font-size: 118%;
+}
+button{
+	color:green;
+	font-weight:bold;
+	background-color:#C0C0C0;
+}
+
+#tabla_pedir_cita td{
+	padding: 1px;
+}
+
+.cabecera_tabla_pedir_cita{
+    font-size: 122%;
+    font-weight: bold;
+	text-align:center;  
+}
+
+#enlace_historial{
+	padding:10px;
+	background-color:#87CEFA;
+	text-align:center;
+	font-size:135%;
+	margin: 10px 0px;
+	border: solid 1px;
+}
+
+#enlace_cerrar_sesion{
+	text-align:right;
+}
+
+
+@media only screen and (max-width: 768px) {
+
+    table {
+        width:100%;
+    }
+    thead {
+        display: none;
+    }
+    tr:nth-of-type(2n) {
+        background-color: inherit;
+    }
+    tr td:first-child {
+        background: #d1d0d0;
+        font-weight:bold;
+        font-size:1.3em;
+    }
+    tbody td {
+        display: block;
+        text-align:center;
+    }
+    tbody td:before {
+        content: attr(data-th);
+        display: block;
+        text-align:center;
+    }
+
+}
+
+#cabecera{
+    text-align: center;
+}
+	
