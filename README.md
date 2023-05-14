@@ -32,17 +32,17 @@ No se puede probar en "funcionamiento" la página web, ya que se han eliminados 
  
  <img src="https://github.com/DanielDW23/Proyecto_certificado--IFCD0210/assets/126791645/8cf8d7de-1858-4044-83f2-74b1c0737be3" width="850" />
  
- <img src="https://github.com/DanielDW23/Proyecto_certificado--IFCD0210/assets/126791645/ed036ca8-e490-45d2-a2ff-3cce7c46b128" width="450" />
+ <img src="https://github.com/DanielDW23/Proyecto_certificado--IFCD0210/assets/126791645/ed036ca8-e490-45d2-a2ff-3cce7c46b128" width="500" />
  
- <img src="https://github.com/DanielDW23/Proyecto_certificado--IFCD0210/assets/126791645/e837d430-20fb-4e08-8bab-0288870897bd" width="450" />
+ <img src="https://github.com/DanielDW23/Proyecto_certificado--IFCD0210/assets/126791645/e837d430-20fb-4e08-8bab-0288870897bd" width="500" />
  
- <img src="https://github.com/DanielDW23/Proyecto_certificado--IFCD0210/assets/126791645/0bb1c3e8-ca4b-4cf3-961b-645a44a7e52d" width="450" />
+ <img src="https://github.com/DanielDW23/Proyecto_certificado--IFCD0210/assets/126791645/0bb1c3e8-ca4b-4cf3-961b-645a44a7e52d" width="500" />
  
- <img src="https://github.com/DanielDW23/Proyecto_certificado--IFCD0210/assets/126791645/f0fd4834-5ce3-4944-a780-1fd58e5ba144" width="450" />
+ <img src="https://github.com/DanielDW23/Proyecto_certificado--IFCD0210/assets/126791645/f0fd4834-5ce3-4944-a780-1fd58e5ba144" width="500" />
  
- <img src="https://github.com/DanielDW23/Proyecto_certificado--IFCD0210/assets/126791645/39fb86eb-bc5f-4a4a-8140-a0c41c058390" width="450" />
+ <img src="https://github.com/DanielDW23/Proyecto_certificado--IFCD0210/assets/126791645/39fb86eb-bc5f-4a4a-8140-a0c41c058390" width="500" />
  
- <img src="https://github.com/DanielDW23/Proyecto_certificado--IFCD0210/assets/126791645/60a3b97e-f4cb-4f71-8cf7-b8676ec94150" width="450" />
+ <img src="https://github.com/DanielDW23/Proyecto_certificado--IFCD0210/assets/126791645/60a3b97e-f4cb-4f71-8cf7-b8676ec94150" width="500" />
   
 
 
